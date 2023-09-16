@@ -1,2 +1,2 @@
 # UdeSa Matlab codes
-Codes from Topicos de Macroeconomía Abierta 
+Matlab codes of Topicos de Macroeconomía Abierta. 
